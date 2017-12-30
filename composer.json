@@ -1,6 +1,6 @@
 {
-  "name": "dunglas/symfony-lock",
-  "description": "Enforces that all Symfony components use the same major version",
+  "name": "pamil/symfony-lock",
+  "description": "Enforces that all Symfony components use the same major / minor version",
   "type": "metapackage",
   "homepage": "https://dunglas.fr",
   "license": "MIT",
